@@ -1,4 +1,4 @@
-baseurl = "http://localhost:3000/"
+baseurl = "/"
 title = "Wind and Mill"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
